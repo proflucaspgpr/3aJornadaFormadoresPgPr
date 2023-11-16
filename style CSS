@@ -1,8 +1,10 @@
 p {
    color:blue;
+   text-size-adjust: 20px;
 }
 
 h1 {
     text-align: center;
-    color:olive;
+    color: olive;
+    text-size-adjust: 20px;
 }
