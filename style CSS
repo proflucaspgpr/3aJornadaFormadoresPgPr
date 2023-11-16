@@ -3,5 +3,6 @@ p {
 }
 
 h1 {
-    "text-align: color:olive;
+    text-align: center;
+    color:olive;
 }
